@@ -3,6 +3,12 @@ A Python Function that sends a Email using your Gmail account with a Function us
 
 ![Alt text](sendemailscreenshot2018.GIF?raw=true)
 
+
+# Provider
+
+SMTP server domain name
+Gmail-    smtp.gmail.com
+
 #Send Email
 import smtplib
 

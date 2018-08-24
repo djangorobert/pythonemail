@@ -11,3 +11,5 @@ def sendEmail():
     #Now Create your Message remember to add your email, then receivers email, subject, message.
     smtpObj.sendmail(' youremail@gmail.com', 'receiversemail@gmail.com',
 		 'Subject: How you been., Remember me,')
+	
+    smtpObj.quit()

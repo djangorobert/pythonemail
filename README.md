@@ -1,7 +1,7 @@
 # pythonemail
 A Python Function that sends a Email using your Gmail account with a Function using SMTP.
 
-
+![Alt text](sendemailscreenshot2018.GIF?raw=true)
 
 #Send Email
 import smtplib
